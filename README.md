@@ -1,5 +1,6 @@
 # A3-Streaming-Messaging-with-Apache-KafkaAufgabe
 
+
 1.) Read Kafka Messaging and the links to the Kafka Libraries (e.g. in Python) to get ready for the next exercise.
 
 Programm (!) two Kafka Producers writing to the same topic (using Java, Python, etc.)
@@ -10,10 +11,5 @@ Your consumer C reads the numbers and prints them with the origin A or B.
 
 In practice: You start the e.g. three Python Scripts independently (not implementing the fork / concurrency etc. by hand)! (First you strt the zookeper and the Kafka server)
 
-2.) Read the entire Documentation of Apache Kafka.
-What is new / different about Kafka Streams? Write to paragraphs.
-
-3.) Watch the AlphaGo Movie on NetFlix (no proof needed :-)
-
-I expect you send me a link to Github or one PDF File containing exercise #1. + #2. and a "yes" for #3.!
-Read the sentence above again. Other formats will loose points!
+# Kafka Streams
+Kafka Streams is a client library for building applications and microservices, where the input and output data are stored in Kafka clusters. It combines the simplicity of writing and deploying standard Java and Scala applications on the client side with the benefits of Kafka's server-side cluster technology
